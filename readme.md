@@ -1,9 +1,11 @@
 # Defender Story
+
+[![Join the chat at https://gitter.im/Citringo/ProjectDefenderStory-Remake](https://badges.gitter.im/Citringo/ProjectDefenderStory-Remake.svg)](https://gitter.im/Citringo/ProjectDefenderStory-Remake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 (C)2015 Citringo
 
-Defender Story ‚ÍAŒÃ“T“I‚È2DƒAƒNƒVƒ‡ƒ“ƒQ[ƒ€‚ÆAƒmƒxƒ‹ƒQ[ƒ€•—‚ÌƒXƒg[ƒŠ[ƒ‚[ƒh‚ğ‘g‚İ‡‚í‚¹‚½‚¿‚å‚Á‚ÆV‚µ‚¢‚©‚à‚µ‚ê‚È‚¢ƒQ[ƒ€‚Å‚·B
+Defender Story ã¯ã€å¤å…¸çš„ãª2Dã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚²ãƒ¼ãƒ ã¨ã€ãƒãƒ™ãƒ«ã‚²ãƒ¼ãƒ é¢¨ã®ã‚¹ãƒˆãƒ¼ãƒªãƒ¼ãƒ¢ãƒ¼ãƒ‰ã‚’çµ„ã¿åˆã‚ã›ãŸã¡ã‚‡ã£ã¨æ–°ã—ã„ã‹ã‚‚ã—ã‚Œãªã„ã‚²ãƒ¼ãƒ ã§ã™ã€‚
 
-‚±‚ÌƒQ[ƒ€‚ÍƒI[ƒvƒ“ƒ\[ƒXƒ\ƒtƒgƒEƒFƒA‚ÅCMITƒ‰ƒCƒZƒ“ƒX‚ÅŒöŠJ‚³‚ê‚Ä‚¢‚Ü‚·D
+ã“ã®ã‚²ãƒ¼ãƒ ã¯ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã§ï¼ŒMITãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã§å…¬é–‹ã•ã‚Œã¦ã„ã¾ã™ï¼
 
-Ú‚µ‚­‚ÍA http://citringo.net/DefenderStory/
+è©³ã—ãã¯ã€ http://citringo.net/DefenderStory/
 
